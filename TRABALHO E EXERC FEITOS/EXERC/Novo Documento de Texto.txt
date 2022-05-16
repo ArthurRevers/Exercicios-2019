@@ -1,0 +1,18 @@
+<html>
+    <head>
+         <title>
+         </title>
+    </head>
+     <body>
+         <ol type=1> 
+         <li>oi
+         <li>olá
+         <li>bom dia
+         </ol>
+          <ol type=a>
+          <li>azul
+          <li>verde
+          <li>amarelo
+          </ol>
+     </body>
+</html>
